@@ -49,17 +49,17 @@ form {
 }
 
 input {
-	font-size: 8px;
+	font-size: 15px;
 }
 span{
-	font-size: 10px;
+	font-size: 18px;
 	font-family: comic sans MS, cursive, serif;
 }
 .fssubmitbutton
 {
 	background-color: darkgrey;
 	font-family: comic sans MS, cursive, serif;
-	font-size: 8px;
+	font-size: 13px;
 }
 
 .botones{
@@ -106,6 +106,6 @@ span{
 }
 p {
 	margin-top: 200px;
-	font-size: 10px;
+	font-size: 15px;
 	font-family: comic sans ms, cursive, sans-serif;
 }
